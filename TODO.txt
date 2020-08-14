@@ -1,0 +1,7 @@
+TODO:
+
+- streamline CSS
+- fix footer
+- add about page
+- add resume
+- add Notes page
